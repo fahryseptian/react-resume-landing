@@ -1,199 +1,199 @@
 {
   "main": {
-    "name":"Brad Traversy",
-    "occupation":"Web developer, programmer and designer",
-    "description":"I design and program websites and web applications of all types. I also teach web dev courses",
-    "image":"profilepic.jpg",
-    "bio":"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam.",
-    "email": "bradtraversy@gmail.com",
+    "name": "Yaroslav Kolesnikov",
+    "occupation": "Full Stack Developer, React.js  programmer",
+    "description": "I design and program websites and web applications of all types. I dream of creating my own courses for React Developers.",
+    "image": "profilepic1.jpg",
+    "bio": "Hello, my name is Yaroslav.I work as a Full Stack Developer.I like my job very much. Most of all I like working with React and MERN stack.This is both my job and my hobby.I like to learn.Every day I learn something new, I study online courses, read books and useful websites, and improve my skills.'No man is born wise or learned.'A day lived without new knowledge is a lost day!I maintain the website 'Simple Tips', the group 'Business and IT technology' on Facebook and Google +. I participated in the program # 100DaysOfCode.",
+    "email": "kolesnikovy70@gmail.com",
     "phone": "555-555-5555",
-    "address":{
-      "street":"933 Albany st, Suite 3",
-      "city":"Boston",
-      "state":"MA",
+    "address": {
+      "street": "Kobylyanska st, Suite 31",
+      "city": "Chernivtsi",
+      "state": "UA",
       "zip": "20293"
     },
-    "website": "http://www.techguywebsolutions.com",
-    "resumedownload":"http://something.com",
-    "social":[
+    "website": "http://abcinblog.blogspot.com/",
+    "resumeDownload": "https://drive.google.com/open?id=1j4K6-hO0pk3vE7A2lZ8QKiQk02taa83z",
+    "social": [
       {
-        "name":"facebook",
-        "url":"http://facebook.com",
-        "className":"fa fa-facebook"
+        "name": "facebook",
+        "url": "https://www.facebook.com/Yaroslav-Web-Master-1446556072148794/?modal=admin_todo_tour",
+        "className": "fa fa-facebook"
       },
       {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
+        "name": "twitter",
+        "url": "https://twitter.com/JroslavK",
+        "className": "fa fa-twitter"
       },
       {
-        "name":"google-plus",
-        "url":"http://googleplus.com",
-        "className":"fa fa-google-plus"
+        "name": "google-plus",
+        "url": "https://plus.google.com/u/0/115685630826486368845",
+        "className": "fa fa-google-plus"
       },
       {
-        "name":"linkedin",
-        "url":"http://linkedin.com",
-        "className":"fa fa-linkedin"
+        "name": "linkedin",
+        "url": "http://linkedin.com",
+        "className": "fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"http://instagram.com",
-        "className":"fa fa-instagram"
+        "name": "instagram",
+        "url": "http://instagram.com",
+        "className": "fa fa-instagram"
       },
       {
-        "name":"github",
-        "url":"http://github.com",
-        "className":"fa fa-github"
+        "name": "github",
+        "url": "https://github.com/YaroslavW",
+        "className": "fa fa-github"
       },
       {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
+        "name": "skype",
+        "url": "http://skype.com",
+        "className": "fa fa-skype"
       }
     ]
   },
-  "resume":{
-    "education":[
+  "resume": {
+    "education": [
       {
-        "school":"University of Tech",
-        "degree":"Master in Graphic Design",
-        "graduated":"April 2007",
-        "description":"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. Nullam dictum felis eu pede mollis pretium."
+        "school": "University of Petroskoi",
+        "degree": "Master in Graphic Design",
+        "graduated": "June 1994",
+        "description": " Hack Reactor, Udacity, SOLOLearn, Hexlet.io, Geek Brains, Coursera Udemy, Lambda School, Code School, try Git, Stackoverflw, Code Monkey, CodinGame. "
       },
       {
-        "school":"School of Cool Designers",
-        "degree":"B.A. Degree in Graphic Design",
-        "graduated":"March 2003",
-        "description":"This is Photoshops version of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat"
+        "school": "Free Code Camp",
+        "degree": "Front End Developer",
+        "graduated": "February 2017",
+        "description": "Creation of HTML-page of a site on the basis of design-mock-ups. Site layout and templates for CMS. Binding to the user interface of scripts that provide visualization and animation of the site pages. Providing the necessary level of user interface (UI - User Interface) and experience of interaction (UX - Uzer Experience)."
       }
     ],
-    "work":[
+    "work": [
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX Designer ",
-        "years":"March 2010 - Present",
-        "description":"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. Nullam dictum felis eu pede mollis pretium."
+        "company": "Freelancer",
+        "title": "Front End Developer ",
+        "years": "March 2014 - 2017",
+        "description": "I worked as a freelancer on various sites and private orders. I created blogs, landing pages, business cards sites and applications. I developed site design, logos and advertising banners."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"UX Designer",
-        "years":"March 2007 - February 2010",
-        "description":"This is Photoshops version of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat"
+        "company": "Web-Masters Group",
+        "title": "Full Stack Developer",
+        "years": "March 2017 - Present",
+        "description": "Development and implementation of web applications, interaction with other developers, from the choice of the framework and the defnition of the architecture of the project to the implementation. Creation of simple online stores, landings. Mostly I work with the writing of questionnaires and tests. List I was engaged in development and creation of sites on CMS-Wordpress, creation of own themes of Wordpress, stretching HTML-templates on CMS, I succeeded in creating test sites-questionnaires for companies, HR-s. SMM-users. This was the starting point in my hobby for JavaScript. I independently developed and wrote four extensions for Google Chrome and Mozilla Firefox. I am blogging about programming and creating blogs on blogspot. I lead two groups on programming in social networks (Facebook and Google Plus)."
       }
     ],
-    "skills":[
+    "skills": [
       {
-        "name":"Photoshop",
-        "level":"60%"
+        "name": "React",
+        "level": "90%"
       },
       {
-        "name":"Illustrator",
-        "level":"55%"
+        "name": "Node.js",
+        "level": "65%"
       },
       {
-        "name":"Wordpress",
-        "level":"50%"
+        "name": "MongoDB",
+        "level": "60%"
       },
       {
-        "name":"CSS",
-        "level":"90%"
+        "name": "SASS",
+        "level": "80%"
       },
       {
-        "name":"HTML5",
-        "level":"80%"
+        "name": "TypeScript",
+        "level": "50%"
       },
       {
-        "name":"jQuery",
-        "level":"50%"
+        "name": "Express",
+        "level": "80%"
       }
     ]
   },
-  "portfolio":{
+  "portfolio": {
     "projects": [
       {
-        "title":"Coffee Cup",
-        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
-        "category":"Illustrator",
-        "tags":"Branding, Web Design",
-        "image":"coffee.jpg",
-        "url":"http://port1.com",
-        "modal":"#modal-01"
+        "title": "Web-Masters-Group",
+        "description": "Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category": "Illustrator",
+        "tags": "Branding, Web Design",
+        "image": "coffee.jpg",
+        "url": "http://port1.com",
+        "modal": "#modal-01"
       },
       {
-        "title":"Console",
-        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
-        "category":"Web Design",
-        "tags":"Branding, Web Development",
-        "image":"console.jpg",
-        "url":"http://port2.com",
-        "modal":"#modal-02"
+        "title": "Console",
+        "description": "Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category": "Web Design",
+        "tags": "Branding, Web Development",
+        "image": "console.jpg",
+        "url": "http://port2.com",
+        "modal": "#modal-02"
       },
       {
-        "title":"Judah",
-        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
-        "category":"Web Development",
-        "tags":"Branding, Web Programming",
-        "image":"judah.jpg",
-        "url":"http://port3.com",
-        "modal":"#modal-03"
+        "title": "Judah",
+        "description": "Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category": "Web Development",
+        "tags": "Branding, Web Programming",
+        "image": "judah.jpg",
+        "url": "http://port3.com",
+        "modal": "#modal-03"
       },
       {
-        "title":"Into The Light",
-        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
-        "category":"Photography",
-        "tags":"Photography, Design",
-        "image":"into-the-light.jpg",
-        "url":"http://port4.com",
-        "modal":"#modal-04"
+        "title": "Into The Light",
+        "description": "Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category": "Photography",
+        "tags": "Photography, Design",
+        "image": "into-the-light.jpg",
+        "url": "http://port4.com",
+        "modal": "#modal-04"
       },
       {
-        "title":"Farmer Boy",
-        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
-        "category":"Branding",
-        "tags":"Branding, Web Design",
-        "image":"farmerboy.jpg",
-        "url":"http://port5.com",
-        "modal":"#modal-05"
+        "title": "Farmer Boy",
+        "description": "Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category": "Branding",
+        "tags": "Branding, Web Design",
+        "image": "farmerboy.jpg",
+        "url": "http://port5.com",
+        "modal": "#modal-05"
       },
       {
-        "title":"Girl",
-        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
-        "category":"Photography",
-        "tags":"Photography, Graphic Design",
-        "image":"girl.jpg",
-        "url":"http://port6.com",
-        "modal":"#modal-06"
+        "title": "Girl",
+        "description": "Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category": "Photography",
+        "tags": "Photography, Graphic Design",
+        "image": "girl.jpg",
+        "url": "http://port6.com",
+        "modal": "#modal-06"
       },
       {
-        "title":"Origami",
-        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
-        "category":"Illustration",
-        "tags":"Branding, Illustration",
-        "image":"origami.jpg",
-        "url":"http://port7.com",
-        "modal":"#modal-07"
+        "title": "Origami",
+        "description": "Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category": "Illustration",
+        "tags": "Branding, Illustration",
+        "image": "origami.jpg",
+        "url": "http://port7.com",
+        "modal": "#modal-07"
       },
       {
-        "title":"Retrocam",
-        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
-        "category":"Web Development",
-        "tags":"Photography",
-        "image":"retrocam.jpg",
-        "url":"http://port8.com",
-        "modal":"#modal-08"
+        "title": "Retrocam",
+        "description": "Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category": "Web Development",
+        "tags": "Photography",
+        "image": "retrocam.jpg",
+        "url": "http://port8.com",
+        "modal": "#modal-08"
       }
     ]
   },
-  "testimonials":{
-    "testimonials":[
+  "testimonials": {
+    "testimonials": [
       {
-        "text":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
-        "user":"John Doe"
+        "text": "“The computer programmer is a creator of universes for which he alone is the lawgiver. No playwright, no stage director, no emperor, however powerful, has ever exercised such absolute authority to arrange a stage or field of battle and to command such unswervingly dutiful actors or troops.” ",
+        "user": "Joseph Weizenbaum"
       },
       {
-        "text":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
-        "user":"Steve Smith"
+        "text": "The most important property of a program is whether it accomplishes the intention of its user.",
+        "user": "C.A.R. Hoare"
       }
     ]
   }
