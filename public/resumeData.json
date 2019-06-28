@@ -112,75 +112,75 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Web-Masters-Group",
+        "title": "React-Meeting",
         "description": "Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
-        "category": "Illustrator",
+        "category": "React-Projects",
         "tags": "Branding, Web Design",
-        "image": "coffee.jpg",
-        "url": "http://port1.com",
+        "image": "react-1.jpg",
+        "url": "http://insidious-representative.surge.sh/",
         "modal": "#modal-01"
       },
       {
-        "title": "Console",
+        "title": "BMI - Calculator",
         "description": "Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
-        "category": "Web Design",
+        "category": "React-Project",
         "tags": "Branding, Web Development",
-        "image": "console.jpg",
-        "url": "http://port2.com",
+        "image": "react-2.jpg",
+        "url": "http://purring-paper.surge.sh/",
         "modal": "#modal-02"
       },
       {
-        "title": "Judah",
+        "title": "React Lhander",
         "description": "Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
-        "category": "Web Development",
+        "category": "React-Project",
         "tags": "Branding, Web Programming",
-        "image": "judah.jpg",
-        "url": "http://port3.com",
+        "image": "react-3.jpg",
+        "url": "http://unique-finger.surge.sh/",
         "modal": "#modal-03"
       },
       {
-        "title": "Into The Light",
+        "title": "React Recipe",
         "description": "Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
-        "category": "Photography",
+        "category": "React Project",
         "tags": "Photography, Design",
-        "image": "into-the-light.jpg",
-        "url": "http://port4.com",
+        "image": "react-4.jpg",
+        "url": "http://wakeful-toys.surge.sh/",
         "modal": "#modal-04"
       },
       {
-        "title": "Farmer Boy",
+        "title": "React-BookFinder",
         "description": "Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
-        "category": "Branding",
+        "category": "React Project",
         "tags": "Branding, Web Design",
-        "image": "farmerboy.jpg",
-        "url": "http://port5.com",
+        "image": "react-5.jpg",
+        "url": "http://spiritual-soda.surge.sh/",
         "modal": "#modal-05"
       },
       {
-        "title": "Girl",
+        "title": "React-Table",
         "description": "Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
-        "category": "Photography",
+        "category": "React Project",
         "tags": "Photography, Graphic Design",
-        "image": "girl.jpg",
-        "url": "http://port6.com",
+        "image": "react-6.jpg",
+        "url": "http://cold-teaching.surge.sh/",
         "modal": "#modal-06"
       },
       {
-        "title": "Origami",
+        "title": "React-D3-Chart",
         "description": "Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
-        "category": "Illustration",
+        "category": "React Project",
         "tags": "Branding, Illustration",
-        "image": "origami.jpg",
-        "url": "http://port7.com",
+        "image": "react-7.jpg",
+        "url": "http://unknown-mice.surge.sh/",
         "modal": "#modal-07"
       },
       {
-        "title": "Retrocam",
+        "title": "React-Survey",
         "description": "Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
-        "category": "Web Development",
+        "category": "React Project",
         "tags": "Photography",
-        "image": "retrocam.jpg",
-        "url": "http://port8.com",
+        "image": "react-8.jpg",
+        "url": "http://homeless-eggnog.surge.sh/",
         "modal": "#modal-08"
       }
     ]

@@ -6,23 +6,27 @@ class Portfolio extends Component {
       var portfolio = this.props.data.projects.map(function(project){
         var imageUrl = 'images/portfolio/'+project.image;
         return (
-          
-            <div key={project.modal} className="columns portfolio-item">
-              <div className="item-wrap">
-                <a href={project.modal} title="">
-                  <img alt="" src={imageUrl} />
-                  <div className="overlay">
-                    <div className="portfolio-item-meta">
-                      <h5>{project.title}</h5>
-                      <p>{project.category}</p>
-                    </div>
+          <div key={project.modal} className="columns portfolio-item">
+            <div className="item-wrap">
+              <a
+                href={project.url}
+                title={project.title}
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <img alt={project.title} src={imageUrl} />
+                <div className="overlay">
+                  <div className="portfolio-item-meta">
+                    <h5>{project.title}</h5>
+                    <p>{project.category}</p>
                   </div>
-                  <div className="link-icon">
-                    <i className="icon-plus" />
-                  </div>
-                </a>
-              </div>
-            </div>  
+                </div>
+                <div className="link-icon">
+                  <i className="icon-plus" />
+                </div>
+              </a>
+            </div>
+          </div>
         );
       });
     }
