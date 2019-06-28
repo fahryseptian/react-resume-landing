@@ -1,0 +1,200 @@
+{
+  "main": {
+    "name": "Yaroslav Kolesnikov",
+    "occupation": "Full Stack Developer, React.js  programmer",
+    "description": "I design and program websites and web applications of all types. I dream of creating my own courses for React Developers.",
+    "image": "profilepic1.jpg",
+    "bio": "Hello, my name is Yaroslav.I work as a Full Stack Developer.I like my job very much. Most of all I like working with React and MERN stack.This is both my job and my hobby.I like to learn.Every day I learn something new, I study online courses, read books and useful websites, and improve my skills.'No man is born wise or learned.'A day lived without new knowledge is a lost day!I maintain the website 'Simple Tips', the group 'Business and IT technology' on Facebook and Google +. I participated in the program # 100DaysOfCode.",
+    "email": "kolesnikovy70@gmail.com",
+    "phone": "555-555-5555",
+    "address": {
+      "street": "Kobylyanska st, Suite 31",
+      "city": "Chernivtsi",
+      "state": "UA",
+      "zip": "20293"
+    },
+    "website": "http://abcinblog.blogspot.com/",
+    "resumeDownload": "https://drive.google.com/open?id=1j4K6-hO0pk3vE7A2lZ8QKiQk02taa83z",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/Yaroslav-Web-Master-1446556072148794/?modal=admin_todo_tour",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/JroslavK",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "google-plus",
+        "url": "https://plus.google.com/u/0/115685630826486368845",
+        "className": "fa fa-google-plus"
+      },
+      {
+        "name": "linkedin",
+        "url": "http://linkedin.com",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/YaroslavW",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "skype",
+        "url": "http://skype.com",
+        "className": "fa fa-skype"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "University of Petroskoi",
+        "degree": "Master in Graphic Design",
+        "graduated": "June 1994",
+        "description": " Hack Reactor, Udacity, SOLOLearn, Hexlet.io, Geek Brains, Coursera Udemy, Lambda School, Code School, try Git, Stackoverflw, Code Monkey, CodinGame. "
+      },
+      {
+        "school": "Free Code Camp",
+        "degree": "Front End Developer",
+        "graduated": "February 2017",
+        "description": "Creation of HTML-page of a site on the basis of design-mock-ups. Site layout and templates for CMS. Binding to the user interface of scripts that provide visualization and animation of the site pages. Providing the necessary level of user interface (UI - User Interface) and experience of interaction (UX - Uzer Experience)."
+      }
+    ],
+    "work": [
+      {
+        "company": "Freelancer",
+        "title": "Front End Developer ",
+        "years": "March 2014 - 2017",
+        "description": "I worked as a freelancer on various sites and private orders. I created blogs, landing pages, business cards sites and applications. I developed site design, logos and advertising banners."
+      },
+      {
+        "company": "Web-Masters Group",
+        "title": "Full Stack Developer",
+        "years": "March 2017 - Present",
+        "description": "Development and implementation of web applications, interaction with other developers, from the choice of the framework and the defnition of the architecture of the project to the implementation. Creation of simple online stores, landings. Mostly I work with the writing of questionnaires and tests. List I was engaged in development and creation of sites on CMS-Wordpress, creation of own themes of Wordpress, stretching HTML-templates on CMS, I succeeded in creating test sites-questionnaires for companies, HR-s. SMM-users. This was the starting point in my hobby for JavaScript. I independently developed and wrote four extensions for Google Chrome and Mozilla Firefox. I am blogging about programming and creating blogs on blogspot. I lead two groups on programming in social networks (Facebook and Google Plus)."
+      }
+    ],
+    "skills": [
+      {
+        "name": "React",
+        "level": "90%"
+      },
+      {
+        "name": "Node.js",
+        "level": "65%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "60%"
+      },
+      {
+        "name": "SASS",
+        "level": "80%"
+      },
+      {
+        "name": "TypeScript",
+        "level": "50%"
+      },
+      {
+        "name": "Express",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "React-Meeting",
+        "description": "Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category": "React-Projects",
+        "tags": "Branding, Web Design",
+        "image": "react-1.jpg",
+        "url": "http://insidious-representative.surge.sh/",
+        "modal": "#modal-01"
+      },
+      {
+        "title": "BMI - Calculator",
+        "description": "Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category": "React-Project",
+        "tags": "Branding, Web Development",
+        "image": "react-2.jpg",
+        "url": "http://purring-paper.surge.sh/",
+        "modal": "#modal-02"
+      },
+      {
+        "title": "React Lhander",
+        "description": "Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category": "React-Project",
+        "tags": "Branding, Web Programming",
+        "image": "react-3.jpg",
+        "url": "http://unique-finger.surge.sh/",
+        "modal": "#modal-03"
+      },
+      {
+        "title": "React Recipe",
+        "description": "Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category": "React Project",
+        "tags": "Photography, Design",
+        "image": "react-4.jpg",
+        "url": "http://wakeful-toys.surge.sh/",
+        "modal": "#modal-04"
+      },
+      {
+        "title": "React-BookFinder",
+        "description": "Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category": "React Project",
+        "tags": "Branding, Web Design",
+        "image": "react-5.jpg",
+        "url": "http://spiritual-soda.surge.sh/",
+        "modal": "#modal-05"
+      },
+      {
+        "title": "React-Table",
+        "description": "Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category": "React Project",
+        "tags": "Photography, Graphic Design",
+        "image": "react-6.jpg",
+        "url": "http://cold-teaching.surge.sh/",
+        "modal": "#modal-06"
+      },
+      {
+        "title": "React-D3-Chart",
+        "description": "Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category": "React Project",
+        "tags": "Branding, Illustration",
+        "image": "react-7.jpg",
+        "url": "http://unknown-mice.surge.sh/",
+        "modal": "#modal-07"
+      },
+      {
+        "title": "React-Survey",
+        "description": "Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category": "React Project",
+        "tags": "Photography",
+        "image": "react-8.jpg",
+        "url": "http://homeless-eggnog.surge.sh/",
+        "modal": "#modal-08"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "“The computer programmer is a creator of universes for which he alone is the lawgiver. No playwright, no stage director, no emperor, however powerful, has ever exercised such absolute authority to arrange a stage or field of battle and to command such unswervingly dutiful actors or troops.” ",
+        "user": "Joseph Weizenbaum"
+      },
+      {
+        "text": "The most important property of a program is whether it accomplishes the intention of its user.",
+        "user": "C.A.R. Hoare"
+      }
+    ]
+  }
+}
